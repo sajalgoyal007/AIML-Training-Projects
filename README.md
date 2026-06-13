@@ -19,4 +19,7 @@ This repository contains all the projects, practice tasks, and assignments compl
 * Python Practice Programs
 * Data Analysis Projects
 * ML Mini Projects
-* Capstone Project 
+* Capstone Project
+
+## With Mentor 
+    * Muni Sir
