@@ -12,6 +12,8 @@ This repository contains all the projects, practice tasks, and assignments compl
 * Machine Learning
 * Scikit-learn
 * Mini Python Projects
+* Mini Machine Learning Project
+* Natural Language Processing
 
 ## Projects
 
